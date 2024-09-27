@@ -23,7 +23,7 @@ I currently reside in **Amsterdam** and enjoy working on cutting-edge frontend t
 - Code quality, testing, and improving development workflows
 
 ### 📫 How to Reach Me
-- Find me on [LinkedIn](https://linkedin.com/in/pouyan) 
+- Find me on [LinkedIn](https://www.linkedin.com/in/pouyan-ahmadpour/) 
 - Check out my projects on [GitHub](https://github.com/pouim)
 
 ### ⚡ Fun Fact
