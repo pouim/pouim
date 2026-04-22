@@ -1,34 +1,28 @@
-## Hi there 👋 I'm Pouyan
+<!-- Gradient Header -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00F7FF, #7C3AED, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    ⚡ Pouyan Ahmadpour ⚡
+  </span>
+</h1>
 
-I'm a **Senior Front End Engineer** with over **7 years of experience** in crafting high-quality, scalable, and maintainable web applications.
-I currently reside in **Amsterdam** and enjoy working on cutting-edge frontend technologies.
+<h3 align="center">
+  <span style="color:#94A3B8;">
+    Software Engineer • Builder • Tech Enthusiast
+  </span>
+</h3>
 
-### 🔭 What I’m Currently Working On
-- Building sleek, user-friendly interfaces with **React** and **Next.js**
-- Exploring **React Three Fiber** for creating engaging 3D web experiences
-- Migrating legacy codebases to **TypeScript** to improve code quality and scalability
-- Designing and developing **GoalRise**, an AI-powered app for goal setting and habit tracking
-
-### 🌱 What I’m Learning
-- Enhancing full-stack capabilities with **Java**, **Spring Boot**, **SQL**, and **Kotlin**
-- Digging deeper into **backend services** and **microservices architecture**
-
-### 👯 Looking to Collaborate On
-- Exciting front-end or full-stack projects that push boundaries
-- Open-source projects where I can contribute and learn from the community
-
-### 💬 Ask Me About
-- **React**, **Next.js**, and **Web Components**
-- **JavaScript**, **TypeScript**, and UI design
-- Code quality, testing, and improving development workflows
-
-### 📫 How to Reach Me
-- Find me on [LinkedIn](https://www.linkedin.com/in/pouyan-ahmadpour/) 
-- Check out my projects on [GitHub](https://github.com/pouim)
-
-### ⚡ Fun Fact
-When I’m not coding, I enjoy exploring the beautiful city of Amsterdam and staying active with outdoor activities. I'm also a huge fan of **minimalist design** and always look for simple, elegant solutions to complex problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer;Builder+of+Scalable+Products;Tech+Enthusiast;Turning+Ideas+into+Reality" />
+</p>
 
 ---
 
-Let’s create something amazing together!
+## 🧠 About
+
+```ts
+const pouyan = {
+  role: "Software Engineer",
+  mindset: ["Builder", "Curious", "Problem Solver"],
+  focus: ["Scalable systems", "Clean architecture", "Great UX"],
+  passion: "Turning ideas into real products"
+};
